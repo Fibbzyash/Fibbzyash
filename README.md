@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **100 Days of Machine Learning**
 
-- 🌱 I’m currently learning **Machine learning , Deep Learning**
+- 🌱 I’m currently learning ** Big data Techno, Deep Learning**
 
-- 💬 Ask me about **Data science , Power BI , Tableau  , DBMS .**
+- 💬 Ask me about **Data science , Power BI , Tableau  , DBMS  , Machine learning.**
 
 - 📫 How to reach me **yashchoudhary4477@gmail.com**
 
