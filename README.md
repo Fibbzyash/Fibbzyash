@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine learning , Deep Learning**
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Data science , Power BI , Tableau  , DBMS .**
 
 - 📫 How to reach me **yashchoudhary4477@gmail.com**
 
