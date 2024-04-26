@@ -32,10 +32,10 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikesh8107&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fibbzyash&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikesh8107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fibbzyash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
