@@ -4,15 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fibbzyash&label=Profile%20views&color=0e75b6&style=flat" alt="fibbzyash" /> </p>
 
-- 🔭 I’m currently working on **100 Days of Machine Learning**
-
-- 🌱 I’m currently learning ** Big data Techno, Deep Learning**
 
 - 💬 Ask me about **Data science , Power BI , Tableau  , DBMS  , Machine learning.**
 
 - 📫 How to reach me **yashchoudhary4477@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xPeoxrmwkp6kjD2hq5n2AbuDpZ7l02qC/view?usp=sharing](https://drive.google.com/file/d/1xPeoxrmwkp6kjD2hq5n2AbuDpZ7l02qC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
